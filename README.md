@@ -11,7 +11,7 @@
 - Member 3: Maleeha Beefathima - College of Engineering, Trivandrum
 
 ### Hosted Project Link
-@trialleeBot(username) :- search the bot through your telegram account (Botname : Ktu trial
+@trialleeBot(username) :- search the bot through your telegram account (Botname : Ktu trial)
 
 ### Project Description
 University bot is a telegram bot which gives notes, syllabuses , etc of different universities (eg:- calicut university, ktu,etc)
@@ -120,31 +120,23 @@ For Software:
 
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team]![photo](https://github.com/user-attachments/assets/3d3523fe-a5ce-406d-911c-95edba30768a)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Main Project process Video](https://drive.google.com/uc?export=download&id=11gzlwF-WtTQxjoRylQTMBELBvQO9m53O)
 
-# Additional Demos
-[Add any extra demo materials/links]
+*Full working process demonstration*
+
+# Additional Feature Demos
+[Additional feature](https://drive.google.com/uc?export=download&id=1B0Ft704-wddIi5XjV3DIMKHbCEOhysKO)]
+
+*Additional feature: usage in groups*
 
 ## Team Contributions
 Actually Everyone work in all aspects
-- Minha KM: [Specific contributions]
-- Niya P Sherry: [Specific contributions]
-- Maleeha Beefathima: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub
