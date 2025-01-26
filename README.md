@@ -41,7 +41,10 @@ For Software:
 Install the python-telegram-bot library
 
 # Run
-[commands]
+Run the set.py code 1st
+Then run the populate.py file
+At last the ktu.py file(main file)
+(Ensure proper internet connection on your device for the smooth functioning of the bot)
 
 ### Project Documentation
 For Software:
