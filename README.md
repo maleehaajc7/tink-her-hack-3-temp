@@ -1,44 +1,44 @@
-# [Project Name] 🎯
+# UNIVERSITY BOT 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: BitsNBytes
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Niya P Sherry - College of Engineering, Trivandrum
+- Member 2: Minha KM - College of Engineering, Trivandrum
+- Member 3: Maleeha Beefathima - College of Engineering, Trivandrum
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+@trialleeBot(username) :- search the bot through your telegram account (Botname : Ktu trial
 
 ### Project Description
-[2-3 lines about what your project does]
+University bot is a telegram bot which gives notes, syllabuses , etc of different universities (eg:- calicut university, ktu,etc)
+Its a user-friendly  platform to get the required notes and syllabuses which is guided through commands
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+As we are in the world of AI and Robots, even searching for study materials is a burden :( .
+To get the good required notes is a difficult task. We dont know how many websites we should use.
+And even we somehow get the notes, it won't even have complete portions 🥲😿
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+For all the poor GenZ kids who is tired of searching notes for their university, 
+We proudly introduce our BIGG small telegram bot "KTU trial" 🫰(username: @trialleeBot) !!!
+😎Here all the notes are far as within a single click
+So what are you waiting for....!?? 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Python
+- python-telegram-bot library of python
+- SQlite3, Google Drive
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Install the python-telegram-bot library
 
 # Run
 [commands]
@@ -60,14 +60,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
@@ -91,9 +83,10 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Actually Everyone work in all aspects
+- Minha KM: [Specific contributions]
+- Niya P Sherry: [Specific contributions]
+- Maleeha Beefathima: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
